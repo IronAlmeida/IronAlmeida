@@ -1,11 +1,6 @@
 
 ### Olá, eu sou o Iron Almeida | Programador JavaScript 👋😁 
 
-#### Meu Portfólio 👇
-<div>
- <a href="#" target="_blank" ><img align="center" height="25px" alt"Meu Portfólio" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=PORTFOLIO&color=red" /><a/>
-</div>
-
 <br />
 
 <div>
