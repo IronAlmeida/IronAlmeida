@@ -1,5 +1,5 @@
 
-### Olá, eu sou o Iron Almeida | Programador JavaScript 👋😁 
+### Olá, sou Iron Almeida | Programador JavaScript 👋😁 
 
 <br />
 
