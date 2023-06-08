@@ -3,11 +3,6 @@
 
 <br />
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IronAlmeida&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronAlmeida&theme=onedark"
-<div />
-
 ## Tecnologias que utilizo:
 
 <div style="display: inline_block">
