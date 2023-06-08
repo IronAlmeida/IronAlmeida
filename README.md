@@ -1,7 +1,6 @@
 
 ### Olá, sou Iron Almeida | Programador JavaScript 👋😁 
 
-<br />
 
 ## Tecnologias que utilizo:
 
